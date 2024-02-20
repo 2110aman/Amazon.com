@@ -1,2 +1,2 @@
-# amazon.com
+# Amazon.com
 Clone website (amazon.com)
